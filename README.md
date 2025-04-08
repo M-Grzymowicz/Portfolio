@@ -1,94 +1,52 @@
-![project_logo](graphics/churn_3.png)
+# Portfolio - Marcin Grzymowicz
 
-# Banking Customer Churn: Analysis and Prediction
-Project: Detecting Customer Churn in Banking
+Since I’m at the beginning of my data science journey, this portfolio currently contains only one project. This list will be gradually expanded.
 
-### Project Overview
-The goal of this project is to predict customer churn based on various features such as account balance, tenure, estimated salary, and others.
+- **Email**: [marcingrzymowicz@gmail.com](marcingrzymowicz@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/marcin-grzymowicz-94399663/](https://www.linkedin.com/in/marcin-grzymowicz-94399663/)
 
-Based on the dataset provided on [Kaggle: Banking Customer Churn Prediction Dataset  ](https://www.https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset), I developed a classification model to identify customers who are at risk of leaving the bank. Since financial data of bank customers is highly sensitive, the dataset does not reflect real-world data but rather describes a hypothetical bank.
+## Achievements
+- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
+- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
+- Winner of a TAMU Datathon 2020 among 50+ teams.
+- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
 
-Significance: This type of predictive model can be highly valuable for financial institutions aiming to retain their customers. As highlighted by the Harvard Business Review, 
+## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/M-Grzymowicz/Portfolio/graphics/churn_4_3.png"> **[Banking Customer Churn: Analysis and Prediction ](https://github.com/M-Grzymowicz/Banking_Customer_Churn-Analysis_and_Prediction)**
 
-***“Acquiring a new customer can cost 5 to 25 times more than retaining an existing one.”*** 
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
-Customer retention strategies supported by data-driven insights can therefore lead to significant cost savings and improved customer loyalty.
+#
 
+<img align="left" width="250" height="150" src="https://github.com/M-Grzymowicz/Portfolio/graphics/churn_4_3.png"> **[Banking Customer Churn: Analysis and Prediction ](https://github.com/M-Grzymowicz/Banking_Customer_Churn-Analysis_and_Prediction)**
 
-**Goal**: To predict customer churn using relevant features and machine learning techniques.
-
-### Author
-
-[Marcin Grzymowicz](https://github.com/M-Grzymowicz)
-
-## Jupyter Notebooks
-
-This project includes two Jupyter Notebooks, each serving a distinct purpose:
-
-1. **banking_eda.ipynb**: 
-This notebook focuses on exploratory data analysis (EDA) of the dataset, presenting key statistics, feature distributions, and their correlation with the target variable (retained vs. churned customers). In addition to the analysis, the notebook produces a data cleaning function that will be reused in the banking_modeling.ipynb notebook.
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
 
-3. **banking_modeling.ipynb**: 
-This notebook focuses on applying various classification models—such as K-Nearest Neighbors, Logistic Regression, and Random Forest—to the preprocessed data from the previous notebook. After evaluating multiple approaches, the optimal model is identified and saved as rf_after_grid_search.pkl.
+<br />
+  
+ 
+## Core Competencies
 
-## Installation and Setup using conda and environment.yml
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
+- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
-To set up the project locally, follow these steps:
+## Certificates
 
-1. Clone the repository:
-```
-git clone git@github.com:M-Grzymowicz/Banking_Customer_Churn-Analysis_and_Prediction .git
-```
-2. Navigate to the project directory:
-```
-cd your-repository
-```
-3. Install the required environment (you will obtain a new environment called: dpp-2501)
-```
-conda env create --file environment.yml
-```
-4. Activate your environment (dpp-2501):
-```
-conda activate dpp-2501
-```
-
-or use Visual Code Studio and activate this enviroment.
-
-
-5. Download the original dataset *Churn_Modelling.csv* from [Kaggle: Banking Customer Churn Prediction Dataset  ](https://www.https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset) and place it in the project directory under:  **../data/raw**
-
-
-**Note:** If any of the above files are missing, the corresponding functionality may not work as intended.
-
-## Results
-
-To find the best model parameters, the F1-score was used.   
-This solution ensures a good balance between precision and recall.
-However, depending on the bank strategy, solutions that maximize either recall or precision should also be considered.
-
-Classification report of the best model:
-
-                   precision    recall  f1-score   support
-
-                0       0.92      0.88      0.90       809
-                1       0.58      0.68      0.62       191
-
-          accuracy                           0.84      1000
-         macro avg       0.75      0.78      0.76      1000
-      weighted avg       0.85      0.84      0.85      1000
-
-
-
-
-**Interpretation:**
-
-84% of all predictions (for both retainers and churners) are correct.  
-58% of predicted churn cases are correct.  
-The best model's predictions capture 68% of actual churners.
-
-To provide a more intuitive assessment, you can refer to the diagram below.
-( It is based on the confusion matrix.)
-
-<img src="results/figures/prediction_reliability.png" width="500"/>
+- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
+- [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
+- [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
+- [SQL Test By HackerRank](https://www.hackerrank.com/certificates/c0cda4c2f1b5)
+- [SQL Test By Testdome](https://www.testdome.com/cert/24cd496af7a24a8489a1fd5de791c392)
+- [Data Science Test By Testdome](https://www.testdome.com/cert/124165d7386d4f76be84c240e0547bd3)
+- [Deep Learning Specialization By deeplearning.ai](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Deep%20Learning%20Specialization.pdf)
+    - [Neural Networks and Deep Learning](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Neural%20Networks%20and%20Deep%20Learning.pdf)
+    - [Structuring Machine Learning Projects](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Structuring%20Machine%20Learning%20Projects.pdf)
+    - [Improving Deep Neural Networks](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Improving%20Deep%20Neural%20Networks.pdf)
+    - [Convolution Neural Networks](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Convolutional%20Neural%20Networks.pdf)
+    - [Sequence Models](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Sequence%20Models.pdf)
+- [Big Data 101 By Cognitiveclass.ai](https://courses.cognitiveclass.ai/certificates/bfc1df7e5d084a73b84223495263d0fe)
+- [Google Analytics for Begineers By Google](https://analytics.google.com/analytics/academy/certificate/kHYtirzEQV29uzNG8xSFXg)
