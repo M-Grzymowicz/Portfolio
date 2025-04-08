@@ -19,9 +19,7 @@ In this project I have used survival analysis to study how the likelihood of the
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/M-Grzymowicz/Portfolio/"> **[Next Project Name ](https://github.com/M-Grzymowicz/Portfolio/)**
 
-Project description
 
 
 
