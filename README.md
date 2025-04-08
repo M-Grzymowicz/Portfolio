@@ -17,7 +17,6 @@ This portfolio currently contains only one project. This list will be gradually 
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
 
-
 #
 
 <img align="left" width="250" height="150" src="https://github.com/M-Grzymowicz/Portfolio/"> **[Next Project Name ](https://github.com/M-Grzymowicz/Portfolio/)**
