@@ -10,7 +10,7 @@ Hi, I'm Marcin. I hold a Master of Science and Engineering degree in Management 
 
 I have many years of experience in the industrial sector, particularly in manufacturing, warehousing, and transportation. My interest in working with data began during my university studies. For my master's thesis, I applied Design of Experiments (DoE) methods to improve an assembly process, which involved conducting experiments and analyzing the results in a production facility.
 
-Throughout my professional career, I frequently worked with data using spreadsheets — both for analysis and for developing tools to improve the efficiency of departmental operations. Currently, I am eager to deepen my experience with data by pursuing a career in the broad field of data analysis.
+Throughout my professional career, I frequently worked with data using Excel spreadsheets — both for analysis and for developing tools to improve the efficiency of departmental operations. Currently, I am eager to deepen my experience with data by pursuing a career in the broad field of data analysis.
 
 ## Projects
 
