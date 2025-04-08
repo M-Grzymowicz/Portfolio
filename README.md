@@ -1,6 +1,6 @@
 # Portfolio - Marcin Grzymowicz
 
-Since I’m at the beginning of my data science journey, this portfolio currently contains only one project. This list will be gradually expanded.
+This portfolio currently contains only one project. This list will be gradually expanded.
 
 - **Email**: [marcingrzymowicz@gmail.com](marcingrzymowicz@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/marcin-grzymowicz-94399663/](https://www.linkedin.com/in/marcin-grzymowicz-94399663/)
@@ -15,13 +15,13 @@ Since I’m at the beginning of my data science journey, this portfolio currentl
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/M-Grzymowicz/Portfolio/main/graphics/churn_4_3.png"> **[Banking Customer Churn: Analysis and Prediction ](https://github.com/M-Grzymowicz/Banking_Customer_Churn-Analysis_and_Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/M-Grzymowicz/Portfolio/graphics/churn_4_3.png"> **[Banking Customer Churn: Analysis and Prediction ](https://github.com/M-Grzymowicz/Banking_Customer_Churn-Analysis_and_Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/M-Grzymowicz/Portfolio/"> **[Next Project Name ](https://github.com/M-Grzymowicz/Portfolio/)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+Project description
 
 
 <br />
