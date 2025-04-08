@@ -23,13 +23,8 @@ In this project I have used survival analysis to study how the likelihood of the
 
 Project description
 
+#
 
-
-<br />
-
-
-
- 
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
