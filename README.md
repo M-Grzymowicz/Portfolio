@@ -28,7 +28,7 @@ Based on the dataset provided on [Kaggle: Banking Customer Churn Prediction Data
 
 ## Certificates and Courses
 
-- [Certified Data Analyst](https://https://verify.stackfuel.com/Ab5z28CuFOwJ6vgX)
-- [Business Intelligence Specialist](https://https://verify.stackfuel.com/bFwLZRrOCaxealhs)
+- [Certified Data Analyst](https://verify.stackfuel.com/Ab5z28CuFOwJ6vgX)
+- [Business Intelligence Specialist](https://verify.stackfuel.com/bFwLZRrOCaxealhs)
 - [Certified Data Scientist](https://verify.stackfuel.com/o6YK0X5CmjnZtA6g)
 - [Advanced Python Programming for Data Scientists](https://verify.stackfuel.com/zYnbjSxZqDCNsahn)
